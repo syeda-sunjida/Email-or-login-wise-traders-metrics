@@ -14,7 +14,7 @@ db_config = {
 }
 
 # Example inputs
-email_list = ['amirowji1989@gmail.com','rmamanazarov0503@gmail.com','aminelamuscupro@icloud.com','sndiogouwack@gmail.com','theo9602@hotmail.com','sebastienlesfemmes@icloud.com','louij.harvey@gmail.com','duiliomarzan06@gmail.com','kisso2012@gmail.com','Buraksefabolat14@gmail.com','ayoubbenlabrryche@gmail.com','kabil.nakara@gmail.com','toniataba123@yahoo.co.uk','ey.jan1991@gmail.com','jasmitsingharora8@gmail.com','zalifarshid3@gmail.com','evan.andretto@gmail.com','rohithreddyapril1999@gmail.com','rianemaynard@outlook.fr','dicianomatteo8@gmail.com','Montefrioservicesllc@gmail.com']
+email_list = ['amirowji1989@gmail.com','rmamanazarov0503@gmail.com','aminelamuscupro@icloud.com']
 login_list = []
 
 # Start measuring time
